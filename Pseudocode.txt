@@ -1,0 +1,11 @@
+start
+input A,B,C
+Ax*+Bx+C=0
+if (A=0)then
+		('Bukan Persamaan Kuadrat')
+else
+		('D=sqrt(B*-4AC')
+x1=(-B+D):(2.A)
+x2=(-B-D):(2.A)
+output x1 dan x2
+end
